@@ -16,6 +16,10 @@ header {
 header h1 a:hover {
   text-decoration: underline;
 }
+header h1 a{
+  color:#fff;
+}
+
 #logo {
   padding: 10px;
 }
